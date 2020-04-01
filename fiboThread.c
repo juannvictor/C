@@ -1,6 +1,3 @@
-//Feito Por: Juan Victor Dutra Juan 
-//TIA: 31711081
-
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
